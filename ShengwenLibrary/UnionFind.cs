@@ -1,4 +1,6 @@
-﻿namespace ShengwenLibrary
+﻿
+
+namespace ShengwenLibrary
 {
     // Inspired by Princeton Algorithms course(http://algs4.cs.princeton.edu) 
     public class UnionFind
